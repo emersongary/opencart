@@ -1,3 +1,5 @@
+Quality Software
+Emerson Gary
 ///////////////////////////////////////
 ///    OpenCart V1.5.x TO 1.5.x     ///
 ///      Upgrade Instructions       ///
